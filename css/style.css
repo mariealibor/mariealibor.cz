@@ -1862,13 +1862,16 @@ form label {
     min-height: 450px;
   }
   #fh5co-event .event-calendar-content {
-    min-height: 335px;
+    min-height: 380px;
   }
 }
 
 @media screen and (min-width: 1200px) {
   #fh5co-event .event-card-container .event-card .event-card-content {
     min-height: 375px;
+  }
+  #fh5co-event .event-calendar-content {
+    min-height: 350px;
   }
 }
 
