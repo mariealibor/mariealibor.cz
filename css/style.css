@@ -1882,3 +1882,8 @@ form label {
 #fh5co-event .event-card-container .event-timetable .display-tc {
   height: auto;
 }
+
+#fh5co-couple .thank-you .fh5co-heading {
+  margin-bottom: 0;
+  margin-top: 5rem;
+}
